@@ -1,0 +1,12 @@
+- *pult->sig deberia ser (*pult)->sig
+- si la lista esta vacia accede a pult->sig que esta mal
+- eliminado = 0 deberia ser *eliminado = 0
+- en el if asigna a pult NULL, deberia comparer con !=
+- en el recorrido deberia ser act = act->sig
+- act.dato deberia ser act->dato
+- en el if asigna a elem act->dato, deberia comparer con ==
+- en el if *pult != (*pult)->sig la condicion deberia ser que sean iguales, no que sean distintos
+- act->sig = ant->sig deberia ser ant->sig = act->sig
+- pult = *ant deberia ser *pult = ant; 
+- el free deberia ser del act no del ant
+- eliminado = 1 deberia ser *eliminado = 1

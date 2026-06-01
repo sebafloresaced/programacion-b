@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1775833926 source:c:\users\sebaf\onedrive\facu\programación b\guía 4\ej1\main.c
+	<stdio.h>
+	"ej1.h"
+
+1775833921 source:c:\users\sebaf\onedrive\facu\programación b\guía 4\ej1\ej1.c
+	<stdio.h>
+	"ej1.h"
+
+1775834161 c:\users\sebaf\onedrive\facu\programación b\guía 4\ej1\ej1.h
+
