@@ -1,0 +1,10 @@
+- N esta definida como constante =2 pero despues define el vector de enteros con [N] pero le pone 4 elementos.
+- En el for la condicion deberia ser i<N
+- En el while deberia ser arr[i] > act->n
+- Dentro del while deberia ser ant = act; act = act->sig;
+- cuando hace malloc deberia ser nuevo, no *nuevo
+- nuevo -> n = arr[i], no arr[i-1]
+- en el if debe ser ant == NULL, ant = NULL asigna
+- *lista = &nuevo esta mal, debe ser lista = nuevo
+- nuevo -> sig debe ser = act, no = ant
+- ant -> sig debe ser = nuevo, no = &nuevo
